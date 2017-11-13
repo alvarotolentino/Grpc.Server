@@ -1,0 +1,8 @@
+# compiled output
+/bin
+/.vscode
+/obj
+
+/Keys/*.crt
+/Keys/*.key
+/Keys/*.csr
